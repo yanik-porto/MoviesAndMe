@@ -12,4 +12,4 @@ Check [TMDB API](https://www.themoviedb.org/documentation/api) for more informat
 
 # Result
 
- <img src="Images/screen.png" alt="drawing" width="30"/>
+ <img src="Images/screen.png" alt="drawing" width="200"/>
